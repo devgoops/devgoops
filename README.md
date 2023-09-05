@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devgoops
+- 👀 I’m interested in improve my skills in golang.
+- 🌱 I’m currently learning golang.
+- 💞️ I’m looking to collaborate on the golang community
+- 📫 How to reach me (for now, you can send me a PR)
